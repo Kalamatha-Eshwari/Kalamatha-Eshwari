@@ -1,6 +1,6 @@
 👋 Hi, I’m Kalamatha Eshwari!
 
-👀 I’m a Computer Science undergraduate(BVRITN) with a keen interest in web development, data structures and algorithms (DSA), and generative AI.
+👀 I’m a Computer Science undergraduate(BVRITN) with a keen interest in web development, data structures and algorithms (DSA), and  AI ML.
 
 🌱 I’m currently learning the latest in web technologies and diving deeper into generative AI models.
 
